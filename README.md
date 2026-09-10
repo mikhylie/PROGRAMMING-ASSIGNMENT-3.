@@ -3,7 +3,7 @@
 ###### EXPERIMENT 3 - Python Data Analysis
 ###### NAME: MARQUEZ, AALIYAH MIKHYLIE L.
 ###### SECTION: 2ECE-D
-###### DATE SUBMITTED: SEPTEMBER 9, 2026
+###### DATE SUBMITTED: SEPTEMBER 10, 2026
 
 #### **<ins> OBJECTIVE:</ins>**
 To practice core pandas operations for loading, inspecting, and subsetting tabular data. This exercise demonstrates how to examine a DataFrame’s structure, extract specific rows using iloc and Boolean indexing, and select or reorder columns by label—building foundational skills for data analysis in Python.
